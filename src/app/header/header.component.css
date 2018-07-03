@@ -1,0 +1,44 @@
+*
+{
+margin: 0;
+padding:0;
+}
+header
+
+
+.main-nav
+{
+    float: right ;
+    list-style: none;
+    margin-top:30px;
+   
+}
+
+
+.main-nav li
+{
+display: inline-block;
+}
+
+
+.main-nav li a
+{
+    color:rgb(165, 105, 56);
+    text-decoration: none;
+    padding: 2px 20px;
+    font-family: "roboto",sans-serif;
+    font-size: 30px;
+}
+.main-nav li.active a
+{
+    border: 5px  solid rgb(147, 136, 165);
+}
+.main-nav li a:hover
+{
+border: 3px solid  rgb(142, 175, 131);
+}
+ul {
+    background-color:rgba(66, 196, 85, 0.486);
+}
+
+

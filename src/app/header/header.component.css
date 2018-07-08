@@ -42,3 +42,7 @@ ul {
 }
 
 
+.container-fluid{
+    background-color: beige;
+    min-height: 150px;
+}
